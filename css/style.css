@@ -1,10 +1,22 @@
 * {
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
-    font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    font-size: 1.75em;
+}
+
+h2 {
+    border: 2px solid black;
+    text-align: center;
+    font-size: 1.25em;
+    width: 160px;
+    margin-top: 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }
 
 article {
@@ -16,23 +28,13 @@ article {
 }
 
 p {
-    font-family: 'Times New Roman', Times, serif;
     font-size: medium;
+    margin-top: 25px;
+    margin-bottom: auto;
 }
 
 .row {
     width: 100%;
-}
-
-h2 {
-    border: 2px solid black;
-    text-align: center;
-    width: 40%;
-    margin-top: 0px;
-    margin-bottom: 10px;
-    position: absolute;
-    top: 0px;
-    right: 0px;
 }
 
 #header1 {
@@ -40,7 +42,7 @@ h2 {
 }
 
 #header2 {
-    background-color: maroon;
+    background-color: rgb(172, 48, 48);
 }
 
 #header3 {
