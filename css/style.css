@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
+    color: black;
 }
 
 h1 {
@@ -28,7 +29,7 @@ article {
 }
 
 p {
-    font-size: medium;
+    font-size: 1em;
     margin-top: 25px;
     margin-bottom: 0px;
 }
