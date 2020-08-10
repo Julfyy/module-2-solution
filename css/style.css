@@ -13,10 +13,10 @@ h2 {
     text-align: center;
     font-size: 1.25em;
     width: 160px;
-    margin-top: 0px;
+    margin: 0px;
     position: absolute;
-    top: 0px;
-    right: 0px;
+    top: -2px;
+    right: -2px;
 }
 
 article {
@@ -28,9 +28,8 @@ article {
 }
 
 p {
-    font-size: medium;
     margin-top: 25px;
-    margin-bottom: auto;
+    margin-bottom: 0px;
 }
 
 .row {
